@@ -12,28 +12,25 @@ Computer Science Student • Problem Solver • AI Enthusiast • Full Stack Lea
 
 # 👨‍💻 About Me
 
-```cpp
-class Aniket {
-public:
-    string education = "B.Tech CSE";
-    string location = "India";
+ Aniket 
 
-    vector<string> interests = {
+education = "B.Tech CSE"
+
+
+interests 
         "Artificial Intelligence",
         "Cyber Security",
         "Full Stack Development",
         "Competitive Programming",
         "Open Source"
-    };
+    
 
-    vector<string> hobbies = {
+ hobbies
         "Chess ♟️",
         "Video Editing 🎬",
         "UI/UX",
         "Anime"
-    };
-
-    string motto = "Code. Build. Improve. Repeat.";
+    
 };
 ```
 
