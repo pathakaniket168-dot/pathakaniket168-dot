@@ -12,35 +12,31 @@ Computer Science Student • Problem Solver • AI Enthusiast • Full Stack Lea
 
 # 👨‍💻 About Me
 
-```cpp
-class Aniket {
-public:
-    string education = "B.Tech CSE";
-    string college = "Rungta College of Engineering & Technology";
-    string location = "India";
+Aniket
+     education = B.Tech CSE
+     location = India
 
-    vector<string> interests = {
+   interests 
         "Artificial Intelligence",
         "Cyber Security",
         "Full Stack Development",
         "Competitive Programming",
         "Open Source"
-    };
+    
 
-    vector<string> hobbies = {
+   hobbies 
         "Chess ♟️",
         "Video Editing 🎬",
         "UI/UX",
         "Anime"
-    };
+    
+ "Code. Build. Improve. Repeat."
 
-    string motto = "Code. Build. Improve. Repeat.";
-};
 ```
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -73,52 +69,6 @@ public:
 
 ---
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 Current Goals
-
-- 🚀 Become an AI Engineer
-- 📚 Master DSA
-- 🌐 Build Full Stack Applications
-- 🤖 Create AI-powered products
-- 🏆 Win National Hackathons
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-# 🌐 Connect With Me
-
-📧 Email: yourmail@example.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-
-🐦 Twitter/X: https://twitter.com/YOUR_USERNAME
-
-🌍 Portfolio: https://YOUR_WEBSITE
-
----
 
 <h3 align="center">
 
