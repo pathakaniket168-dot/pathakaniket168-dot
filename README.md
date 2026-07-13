@@ -12,27 +12,26 @@ Computer Science Student • Problem Solver • AI Enthusiast • Full Stack Lea
 
 # 👨‍💻 About Me
 
- Aniket 
+```cpp
 
-education = "B.Tech CSE"
-
-
-interests 
-        "Artificial Intelligence",
-        "Cyber Security",
-        "Full Stack Development",
-        "Competitive Programming",
-        "Open Source"
+Aniket 
+education : B.Tech CSE
+location : India 
+ 
+    interests :
+        Artificial Intelligence
+        Cyber Security
+        Full Stack Development
+        Competitive Programming
+        Open Source
     
 
- hobbies
-        "Chess ♟️",
-        "Video Editing 🎬",
-        "UI/UX",
-        "Anime"
-    
-};
+ hobbies :
+        Chess ♟️
+        Video Editing 🎬
+        UI-UX
 ```
+
 
 ---
 
